@@ -6,7 +6,17 @@ in this project, we will be analysing credit risk from, data in loan_stats.csv. 
 
 ## Results:
 
+![Naive Random Oversampling](https://github.com/Kwhitiak/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling%20.png)
 
+![SMOTE](https://github.com/Kwhitiak/Credit_Risk_Analysis/blob/main/Images/SMOTE.png)
+
+![Undersampling](https://github.com/Kwhitiak/Credit_Risk_Analysis/blob/main/Images/Undersampling.png)
+
+![Combination](https://github.com/Kwhitiak/Credit_Risk_Analysis/blob/main/Images/Combination.png)
+
+![Balanced Random Forest](https://github.com/Kwhitiak/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier.png)
+
+![Easy Ensemble](https://github.com/Kwhitiak/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 
 
